@@ -1,6 +1,6 @@
-# Desafio Módulo 3 - Backend - Cubos Academy
+# Desafio Módulo 3 - Backend - Cubos Academy - API para loguin de usuário e cadastro de transações utilizando criptografia.
 
-Amanda Aguiar e Kathleen Serrano
+# Por Amanda Aguiar e Kathleen Serrano
 
 Construção de RESTful API que permita:
 
