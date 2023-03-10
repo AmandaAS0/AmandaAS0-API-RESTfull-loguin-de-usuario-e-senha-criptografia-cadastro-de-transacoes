@@ -1,4 +1,6 @@
-# Desafio Módulo 3 - Backend
+# Desafio Módulo 3 - Backend - Cubos Academy
+
+Amanda Aguiar e Kathleen Serrano
 
 Seu papel é construir uma RESTful API que permita:
 
