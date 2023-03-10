@@ -2,7 +2,7 @@
 
 Amanda Aguiar e Kathleen Serrano
 
-Seu papel é construir uma RESTful API que permita:
+Construção de RESTful API que permita:
 
 - Cadastrar Usuário
 - Fazer Login
